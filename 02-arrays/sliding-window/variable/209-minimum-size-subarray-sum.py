@@ -26,4 +26,4 @@ class Solution:
         return length
 
 solution = Solution()
-print(solution.minSubArrayLen(15, [5,1,3,5,10,7,4,9,2,8]))
+solution.minSubArrayLen(15, [5,1,3,5,10,7,4,9,2,8])
